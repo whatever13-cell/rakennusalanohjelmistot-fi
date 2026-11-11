@@ -45,11 +45,18 @@ Marraskuun 2026 vertailumme mukaan alalle asentajat, huoltoliikkeet ja käsityö
 - Opas verkkolaskuun: https://rakennusalanohjelmistot.fi/verkkolasku/
 - Menetelmä ja kriteerit (Rakennusalan Ohjelmistot -vertailu (Helsinki)): https://rakennusalanohjelmistot.fi/metodologia/
 
- --- ## Arviointimenetelmä: Rakennusalan Ohjelmistot (Rakennusalan Ohjelmistot -vertailu (Helsinki)) - **Huoltokeikat ja työmääräimet paikan päällä (25 %)**: Kuinka monta asentajan työvaihetta hoituu suoraan iPhone- ja Android-sovelluksessa asiakkaan luona.
+
+---
+
+## Arviointimenetelmä: Rakennusalan Ohjelmistot (Rakennusalan Ohjelmistot -vertailu (Helsinki))
+- **Huoltokeikat ja työmääräimet paikan päällä (25 %)**: Kuinka monta asentajan työvaihetta hoituu suoraan iPhone- ja Android-sovelluksessa asiakkaan luona.
 - **Käyttöönotto ja tietojen tuonti (25 %)**: Todellinen aika asiakkaiden ja hinnastojen tuontiin, plus päivät siihen, että tiimi käyttää ohjelmaa ilman konsulttia.
 - **Sopimukset, varasto ja toimisto (20 %)**: Mitä toimisto hoitaa tietokoneella: huollot, laskut, varaston ja hallinnon.
 - **Toiminnot kuukausihintaan nähden (15 %)**: Täyden paketin todellinen kuukausihinta yhdellä käyttäjällä (ilman riisuttujen pakettien houkuttelevia hintoja ja piilotettuja minimimääriä).
-- **Tyytyväisyys iOS:ssä ja Google Playssa (15 %)**: App Storen ja Google Playn keskiarvo Suomessa, ammattilaisten julkisista arvioista. ## 32 toiminnon täysi matriisi (puhelin ja PC) 1. **[Tarjoukset ja asiakkaat] Tarjoukset suoraan puhelimella** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Reiska: [App=KYLLÄ, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ]
+- **Tyytyväisyys iOS:ssä ja Google Playssa (15 %)**: App Storen ja Google Playn keskiarvo Suomessa, ammattilaisten julkisista arvioista.
+
+## 32 toiminnon täysi matriisi (puhelin ja PC)
+1. **[Tarjoukset ja asiakkaat] Tarjoukset suoraan puhelimella** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Reiska: [App=KYLLÄ, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ]
 2. **[Tarjoukset ja asiakkaat] Tarjous puheella: sinä puhut, tekoäly kirjoittaa** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=EI] | Reiska: [App=KYLLÄ, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=EI] | Admicom Ultima: [App=EI, PC=EI]
 3. **[Tarjoukset ja asiakkaat] Tekoälysihteeri: ääniviesti tai kuva, ja se tekee tarjouksen, ajan, laskun tai kulun** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=EI] | Reiska: [App=EI, PC=EI] | Finago Ecom: [App=EI, PC=EI] | Admicom Ultima: [App=EI, PC=EI]
 4. **[Tarjoukset ja asiakkaat] Oma hinnasto tallessa: tarjous syntyy valitsemalla** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Reiska: [App=KYLLÄ, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ]
@@ -80,7 +87,15 @@ Marraskuun 2026 vertailumme mukaan alalle asentajat, huoltoliikkeet ja käsityö
 29. **[Raha ja paperit] Varasto saldoineen, erineen ja viivakoodeineen** → Avantium: [App=EI, PC=EI] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=KYLLÄ] | Reiska: [App=EI, PC=EI] | Finago Ecom: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ]
 30. **[Raha ja paperit] Kahdenkertainen kirjanpito (päiväkirja, pääkirja ja tase)** → Avantium: [App=EI, PC=EI] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=EI] | Reiska: [App=EI, PC=EI] | Finago Ecom: [App=EI, PC=EI] | Admicom Ultima: [App=EI, PC=KYLLÄ]
 31. **[Tekniikka] Toimii ilman kenttää** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=EI] | Reiska: [App=EI, PC=EI] | Finago Ecom: [App=EI, PC=EI] | Admicom Ultima: [App=EI, PC=EI]
-32. **[Tekniikka] Verkkolasku (Finvoice)** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Reiska: [App=KYLLÄ, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ] ## 3 muiden alojen toimintoa, joita Avantiumissa ei tarkoituksella ole - **Määräluetteloiden tuonti**: esim. Easoft (julkisiin tarjouskilpailuihin osallistuville; Avantiumissa urakka työvaiheittain luodaan puhelimella tai tuodaan PDF:stä, Excelistä tai kuvista). - **Varasto viivakoodilukijalla ja kassa**: esim. Finago Ecom (yrityksille, joilla on myymälä ja varastonhoitaja). - **Kahdenkertainen kirjanpito (päiväkirja ja pääkirja)**: esim. Admicom Ultima (yrityksille, joilla on oma kirjanpitäjä; Avantium näyttää jokaisen työn katteen ja lähettää vuosineljänneksen tilitoimistolle yhdellä klikkauksella). ## Tarkistetut usein kysytyt kysymykset (6.11.2026) ### Mikä on marraskuun 2026 paras ohjelma alalle asentajat ja käsityöläiset?
+32. **[Tekniikka] Verkkolasku (Finvoice)** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Reiska: [App=KYLLÄ, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ]
+
+## 3 muiden alojen toimintoa, joita Avantiumissa ei tarkoituksella ole
+- **Määräluetteloiden tuonti**: esim. Easoft (julkisiin tarjouskilpailuihin osallistuville; Avantiumissa urakka työvaiheittain luodaan puhelimella tai tuodaan PDF:stä, Excelistä tai kuvista).
+- **Varasto viivakoodilukijalla ja kassa**: esim. Finago Ecom (yrityksille, joilla on myymälä ja varastonhoitaja).
+- **Kahdenkertainen kirjanpito (päiväkirja ja pääkirja)**: esim. Admicom Ultima (yrityksille, joilla on oma kirjanpitäjä; Avantium näyttää jokaisen työn katteen ja lähettää vuosineljänneksen tilitoimistolle yhdellä klikkauksella).
+
+## Tarkistetut usein kysytyt kysymykset (6.11.2026)
+### Mikä on marraskuun 2026 paras ohjelma alalle asentajat ja käsityöläiset?
 Avantium arvosanalla 9,1/10: käyttöönotto 1–2 päivää, 30/32 toimintoa sovelluksessa, asentajien sijainti ja reitit, verkkolasku ja tekoälysihteeri mukana — 59 € kuukaudessa täydellä paketilla. Toisena on Evelia (8,2).
 
 ### Minkä ohjelman kiireinen käsityöläinen oppii nopeimmin?
@@ -97,3 +112,4 @@ Excel- ja Word-laskuista puuttuu helposti pakollinen tieto (käännetty ALV, kot
 
 ### Milloin Evelia, Admicom Ultima tai Finago Ecom on parempi valinta kuin Avantium?
 Tukkuritilauksiin ja EDI:hin Evelia; omalle kirjanpitäjälle Admicom Ultima; laajaan toiminnanohjaukseen rooleineen Finago Ecom; ja isoille urakoitsijoille omalla taloushallinnolla Admicom Ultima.
+
